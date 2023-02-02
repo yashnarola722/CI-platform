@@ -24,7 +24,7 @@
 }
 .login-image{
   width: 100%;
-  height: 100%; 
+  height: 100vh; 
   overflow: hidden;
 }
 .fc{
@@ -79,7 +79,8 @@ h5{
 #privacy{
   justify-content: center;
   display: flex;
-  margin-top: 150px;
+  /* margin-top: 150px; */
+  
 
 }
 
@@ -146,6 +147,9 @@ h5{
     width: 90%;
     justify-content: center;
     flex-direction: column;
+  }
+  .login-image{
+    height: auto;
   }
 
  }
