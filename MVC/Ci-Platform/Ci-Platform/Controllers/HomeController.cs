@@ -23,6 +23,19 @@ namespace Ci_Platform.Controllers
             return View();
         }
 
+        public IActionResult forgot_password()
+        {
+            return View();
+        }
+        public IActionResult new_password()
+        {
+            return View();
+        }
+        public IActionResult registration()
+        {
+            return View();
+        }
+
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
