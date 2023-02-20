@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Tatvasoft\\CI Platform\\MVC\\Ci-platform\\Ci-Platform\\Ci-Platform.csproj": {}
+    "E:\\Tatvasoft\\CI Platform\\MVC\\Ci-Platform\\Ci-Platform\\Ci-Platform.csproj": {}
   },
   "projects": {
-    "E:\\Tatvasoft\\CI Platform\\MVC\\Ci-platform\\Ci-Platform\\Ci-Platform.csproj": {
+    "E:\\Tatvasoft\\CI Platform\\MVC\\Ci-Platform\\Ci-Platform\\Ci-Platform.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Tatvasoft\\CI Platform\\MVC\\Ci-platform\\Ci-Platform\\Ci-Platform.csproj",
+        "projectUniqueName": "E:\\Tatvasoft\\CI Platform\\MVC\\Ci-Platform\\Ci-Platform\\Ci-Platform.csproj",
         "projectName": "Ci-Platform",
-        "projectPath": "E:\\Tatvasoft\\CI Platform\\MVC\\Ci-platform\\Ci-Platform\\Ci-Platform.csproj",
+        "projectPath": "E:\\Tatvasoft\\CI Platform\\MVC\\Ci-Platform\\Ci-Platform\\Ci-Platform.csproj",
         "packagesPath": "C:\\Users\\Yash\\.nuget\\packages\\",
-        "outputPath": "E:\\Tatvasoft\\CI Platform\\MVC\\Ci-platform\\Ci-Platform\\obj\\",
+        "outputPath": "E:\\Tatvasoft\\CI Platform\\MVC\\Ci-Platform\\Ci-Platform\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
